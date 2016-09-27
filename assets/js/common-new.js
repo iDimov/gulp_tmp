@@ -34,6 +34,9 @@ function isInArray(arr) {
         if (!(arr.indexOf(arguments[i]) !=-1)){
             res = false;
         }
+
+
+        
     }
     return res;
 }
