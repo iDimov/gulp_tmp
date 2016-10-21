@@ -1,1 +1,7 @@
 # tests
+Installation
+
+1. git clone https://github.com/shpan93/gulp_starter.git
+2. npm install -g gulp
+3. npm install
+4. gulp
