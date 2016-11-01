@@ -1,7 +1,7 @@
-# tests
+# galp start (c) Anton (mipoh edition)
+
 Installation
 
-1. git clone https://github.com/shpan93/gulp_starter.git
-2. npm install -g gulp
-3. npm install
-4. gulp
+1. npm install -g gulp
+2. npm install
+3. gulp
